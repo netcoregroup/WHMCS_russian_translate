@@ -3,20 +3,12 @@
  * WHMCS Language File
  * Russian (ru)
  *
- * Please Note: These language files are overwritten during software updates
- * and therefore editing of these files directly is not advised. Instead we
- * recommend that you use overrides to customise the text displayed in a way
- * which will be safely preserved through the upgrade process.
  *
- * For instructions on overrides, please visit:
- *   https://developers.whmcs.com/languages/overrides/
- *
- * @package    WHMCS
- * @author     WHMCS Limited <development@whmcs.com>
- * @copyright  Copyright (c) WHMCS Limited 2005-2018
- * @license    https://www.whmcs.com/license/ WHMCS Eula
+ * @package    NetCore
+ * @author     NetCore Group <system@netcore.group>
+ * @copyright  Copyright (c) NetCore Group 2023-2024
  * @version    $Id$
- * @link       https://www.whmcs.com/
+ * @link       https://netcore.group/
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
